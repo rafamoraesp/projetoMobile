@@ -1,0 +1,15 @@
+Tipos de Aplicativos Mobile (Apps)
+- WebDaV / Web App
+- Nativos: um código para cada plataforma
+- hibridos: o mesmo código gera aplicativos para Android e iOS
+
+Para trabalhar com testes Mobile
+- RAM > 16GB
+- Placa de Video dedicada > 2GB
+- Disco SSD
+- Para testar iPhone e iPad precisa ser um Mac
+
+Software
+- IDE: VS Code - comum Android Studio
+- Emulador
+- Dispositivo Fisico
